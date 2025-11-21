@@ -1,0 +1,13 @@
+pandas
+selenium
+beautifulsoup4
+tqdm
+lxml
+webdriver-manager
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+nbformat
+geopy

@@ -1,0 +1,19 @@
+Excution0: https://batdongsan.com.vn/ban-nha-rieng-duong-dao-tan-phuong-ngoc-ha/ban-vi-tri-sieu-vip-it-ban-khu-ngo-thong-30m2-6-g-mat-tien-3-4m-nhinh-4-ty-pr36362304
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_12256\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_12256\1442785917.py", line 25, in gather
+    address = page.xpath("""//*[@id="product-detail-web"]/span""")[0].text
+IndexError: list index out of range
+
+Success:https://batdongsan.com.vn/ban-nha-rieng-duong-dao-tan-phuong-ngoc-ha/ban-vi-tri-sieu-vip-it-ban-khu-ngo-thong-30m2-6-g-mat-tien-3-4m-nhinh-4-ty-pr36362304
+Excution0: https://batdongsan.com.vn/ban-nha-mat-pho-pho-quang-khanh-phuong-quang-an-2/ban-tai-duong-tay-ho-pr36426165
+Traceback (most recent call last):
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_12256\1442785917.py", line 100, in run
+    data = self.gather(driver.page_source)
+  File "C:\Users\vietdata\AppData\Local\Temp\ipykernel_12256\1442785917.py", line 21, in gather
+    bs = BeautifulSoup(page_source)
+  File "C:\Users\vietdata\anaconda3\envs\ML_env\lib\site-packages\bs4\__init__.py", line 313, in __init__
+    elif len(markup) <= 256 and (
+TypeError: object of type 'NoneType' has no len()
+
